@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What is the average price for porta potty rental in the US?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The average price for porta potty rental in the United States typically ranges from $125 to $175 per month for a standard construction unit with weekly service. However, porta potty rental prices fluctuate based on fuel costs, local disposal fees, and the specific state you are located in.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How many portable toilets do I need for a construction site?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">ANSI standards recommend one construction site toilet rental in the United States for every 10 workers working a 40-hour week. If you have more workers or they are working overtime, you will need additional portable toilet units or more frequent servicing to maintain sanitation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do you offer portable restroom trailers for weddings?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we provide high-end portable restroom trailers for weddings in the United States. These units feature flushing toilets, climate control, running water, and mirrors. The luxury porta potty rental prices for these trailers are higher than standard units but offer a superior guest experience.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Can I rent a porta potty for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, we offer short-term rentals. The cost to rent a porta potty for a day in the United States generally covers the delivery, setup, cleaning, and removal. We can provide a specific temporary toilet rental quote based on your event location and timing.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. How often should a porta potty be serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For standard usage, portable toilet servicing in the United States is performed once a week. For high-traffic events or large crowds, we recommend daily service or renting extra units. We can customize a cleaning schedule that fits the demands of your specific portable toilet rental business.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
